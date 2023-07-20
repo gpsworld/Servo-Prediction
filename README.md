@@ -1,2 +1,2 @@
 # Servo-Prediction
-This is my internship project.
+This is internship project.
